@@ -22,7 +22,7 @@ Hit the deploy to heroku button and follow the further instructions in the scree
 
 **NB: Usage of Aria2 may leads to the suspension of your heroku account so deploy at your own risk.**
 
-<a href="https://heroku.com/deploy?template=https://github.com/yesraaj11/Mirror-Bot-1">
+<a href="https://heroku.com/deploy?template=https://github.com/yaara11/mirrobot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
