@@ -7,8 +7,8 @@
     "mirror",
     "googledrive"
   ],
-  "repository": "https://github.com/yesraaj11/Mirror-Bot-1",
-  "success_url": "https://telegram.dog/Torrent-Mirror-Bot-1",
+  "repository": "https://github.com/yaara11/mirrobot",
+  "success_url": "https://telegram.dog/mirrobot",
   "website": "yesraaj11.tech",  
   "env": {
     "BOT_TOKEN": {
